@@ -3,6 +3,7 @@
 *.code-workspace
 *chamado-coop.code-workspace
 .code-workspace
+.vscode
 
 # dependencies
 /node_modules
